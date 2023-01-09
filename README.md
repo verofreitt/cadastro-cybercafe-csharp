@@ -7,6 +7,6 @@ Cadastro em CyberCafé Desenvolvido em C#
 </p>
 
 <p align="center">
-Projeto feito na faculdade através do Visual Studio para a matéria de orientação a objetos.
+Projeto feito na faculdade através do Visual Studio para a matéria de orientação a objetos com banco de dados sql server.
 </p>
 
